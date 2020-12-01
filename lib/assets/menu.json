@@ -1,0 +1,46 @@
+{
+    "status": 1,
+    "messages": "succesfully",
+    "menu": [
+        {
+            "title": "Belum dibaca",
+            "icon": "unread.png",
+            "route": "suratmasuk"
+        },
+        {
+            "title": "Sudah dibaca",
+            "icon": "read.png",
+            "route": "sudahdibaca"
+        },
+        {
+            "title": "Surat TTD",
+            "icon": "signature.png",
+            "route": "suratttd"
+        },
+        {
+            "title": "Surat Internal",
+            "icon": "internal.png",
+            "route": "suratinternal"
+        },
+        {
+            "title": "Belum External",
+            "icon": "exsternal.png",
+            "route": "surateksternal"
+        },
+        {
+            "title": "Sangat Segera",
+            "icon": "very_soon.png",
+            "route": "sangatsegera"
+        },
+        {
+            "title": "Tembusan",
+            "icon": "copy.png",
+            "route": "tembusan"
+        },
+        {
+            "title": "Rahasia",
+            "icon": "secret.png",
+            "route": "rahasia"
+        } 
+    ]
+}

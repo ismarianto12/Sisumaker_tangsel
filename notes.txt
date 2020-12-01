@@ -1,0 +1,5 @@
+Susunan folder aplikasi : 
+
+ model : representaasi data yang di tampilkan pada aplikasi
+ bloc  : Busines Logic Component Sebagai Penenah aplikasi ketika even dikirim dari widget bloc akan handling 
+ provider : Mengambil data dari url api , untuk di representasi kan pada widget
